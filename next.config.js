@@ -5,6 +5,5 @@ const nextConfig = {
             "uploadthing.com"
         ]
     }  
-};
-  
-export default nextConfig;
+};  
+module.exports = nextConfig;
